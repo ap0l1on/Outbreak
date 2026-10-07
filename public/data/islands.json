@@ -1,0 +1,202 @@
+{
+ "remote": [
+  {
+   "map_unit_id": "SHN",
+   "island": "Tristan da Cunha (in Saint Helena unit)",
+   "approx_population": "250",
+   "access_estimate": "ship only, ~8-10 sailings/yr (estimate)",
+   "link_type": "sea",
+   "notes": "No airport"
+  },
+  {
+   "map_unit_id": "PCN",
+   "island": "Pitcairn",
+   "approx_population": "50",
+   "access_estimate": "supply ship ~every 3 months (estimate)",
+   "link_type": "sea",
+   "notes": "No airport; COVID-free 2020"
+  },
+  {
+   "map_unit_id": "TKL",
+   "island": "Tokelau",
+   "approx_population": "1500",
+   "access_estimate": "ferry from Apia, Samoa ~fortnightly (estimate)",
+   "link_type": "sea",
+   "notes": "No airport; among last COVID-free"
+  },
+  {
+   "map_unit_id": "SHN",
+   "island": "Saint Helena",
+   "approx_population": "4400",
+   "access_estimate": "weekly flight from Johannesburg since 2017-18 (MISSING from OpenFlights ~2014 data; add manually)",
+   "link_type": "air",
+   "notes": "COVID-free into 2021"
+  },
+  {
+   "map_unit_id": "NIU",
+   "island": "Niue",
+   "approx_population": "1600",
+   "access_estimate": "~1-2 flights/week from Auckland (estimate; OpenFlights shows 0 routes)",
+   "link_type": "air",
+   "notes": "Add manually"
+  },
+  {
+   "map_unit_id": "TUV",
+   "island": "Tuvalu",
+   "approx_population": "11000",
+   "access_estimate": "few flights/week from Fiji",
+   "link_type": "air",
+   "notes": "COVID-free into 2022"
+  },
+  {
+   "map_unit_id": "NRU",
+   "island": "Nauru",
+   "approx_population": "12500",
+   "access_estimate": "few flights/week",
+   "link_type": "air",
+   "notes": "COVID-free into 2022"
+  },
+  {
+   "map_unit_id": "ASM",
+   "island": "American Samoa",
+   "approx_population": "45000",
+   "access_estimate": "flights from Samoa/Hawaii",
+   "link_type": "air",
+   "notes": "Escaped 1918 influenza via quarantine"
+  },
+  {
+   "map_unit_id": "WSM",
+   "island": "Samoa",
+   "approx_population": "220000",
+   "access_estimate": "flights from NZ/Australia/Fiji",
+   "link_type": "air",
+   "notes": "19-22% died in 1918"
+  },
+  {
+   "map_unit_id": "TON",
+   "island": "Tonga",
+   "approx_population": "104000",
+   "access_estimate": "flights from NZ/Fiji",
+   "link_type": "air",
+   "notes": "COVID-free into 2021"
+  },
+  {
+   "map_unit_id": "FLK",
+   "island": "Falkland Islands",
+   "approx_population": "3700",
+   "access_estimate": "limited flights",
+   "link_type": "air",
+   "notes": "Remote South Atlantic"
+  },
+  {
+   "map_unit_id": "KIR",
+   "island": "Kiribati",
+   "approx_population": "126000",
+   "access_estimate": "few flights",
+   "link_type": "air",
+   "notes": "First COVID cases 2021-22"
+  },
+  {
+   "map_unit_id": "MHL",
+   "island": "Marshall Islands",
+   "approx_population": "40000",
+   "access_estimate": "few flights",
+   "link_type": "air",
+   "notes": ""
+  },
+  {
+   "map_unit_id": "WLF",
+   "island": "Wallis and Futuna",
+   "approx_population": "11600",
+   "access_estimate": "few flights",
+   "link_type": "air",
+   "notes": ""
+  },
+  {
+   "map_unit_id": "NFK",
+   "island": "Norfolk Island",
+   "approx_population": "2200",
+   "access_estimate": "flights from Australia",
+   "link_type": "air",
+   "notes": ""
+  },
+  {
+   "map_unit_id": "CCK",
+   "island": "Cocos (Keeling) Islands",
+   "approx_population": "550",
+   "access_estimate": "~2 flights/week",
+   "link_type": "air",
+   "notes": ""
+  },
+  {
+   "map_unit_id": "CXR",
+   "island": "Christmas Island",
+   "approx_population": "3000",
+   "access_estimate": "few flights",
+   "link_type": "air",
+   "notes": ""
+  },
+  {
+   "map_unit_id": "NSV",
+   "island": "Svalbard",
+   "approx_population": "2900",
+   "access_estimate": "flights from mainland Norway",
+   "link_type": "air",
+   "notes": "Arctic"
+  },
+  {
+   "map_unit_id": "GRL",
+   "island": "Greenland",
+   "approx_population": "56000",
+   "access_estimate": "flights from Denmark/Iceland",
+   "link_type": "air",
+   "notes": "Arctic, sparse"
+  },
+  {
+   "map_unit_id": "COK",
+   "island": "Cook Islands",
+   "approx_population": "17000",
+   "access_estimate": "flights from NZ",
+   "link_type": "air",
+   "notes": ""
+  }
+ ],
+ "history": [
+  {
+   "year": "1918",
+   "place": "Western Samoa",
+   "event": "Influenza arrived on SS Talune from Auckland, Nov 1918, no quarantine; 19-22% of population died",
+   "source": "https://wwwnc-origin.cdc.gov/eid/article/14/3/pdfs/07-0927.pdf"
+  },
+  {
+   "year": "1918-1921",
+   "place": "American Samoa",
+   "event": "Strict maritime quarantine from 23 Nov 1918; no influenza deaths; <100 km from Western Samoa",
+   "source": "https://www.cambridge.org/core/product/392A0BE5AD01AE942060570E8B88CB83/core-reader"
+  },
+  {
+   "year": "1926",
+   "place": "American Samoa",
+   "event": "Influenza finally arrived; mortality ~1/1000, ~200x lower than Western Samoa 1918",
+   "source": "https://www.cambridge.org/core/product/392A0BE5AD01AE942060570E8B88CB83/core-reader"
+  },
+  {
+   "year": "2020-04",
+   "place": "Nauru, Tokelau, Tuvalu, Pitcairn, Niue etc.",
+   "event": "33 countries/territories with no reported COVID cases by end of April 2020",
+   "source": "https://learningenglish.voanews.com/a/the-last-places-on-earth-without-coronavirus/5399052.html"
+  },
+  {
+   "year": "2021",
+   "place": "Nauru, Tuvalu, Tonga",
+   "event": "Still no reported COVID cases late 2021",
+   "source": "https://www.pacificislandtimes.com/post/nauru-tuvalu-and-tonga-among-the-only-five-countries-untouched-by-covid"
+  },
+  {
+   "year": "2018-2019",
+   "place": "Epuyen, Argentina",
+   "event": "Andes hantavirus superspreading at a gathering; 34 cases, 32% CFR",
+   "source": "https://www.2minutemedicine.com/increased-close-contact-leads-to-spread-of-andes-virus-in-argentina/"
+  }
+ ]
+}

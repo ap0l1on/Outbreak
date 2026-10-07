@@ -1,0 +1,69 @@
+{
+ "generated": "2026-10-06 (data pack) / preprocessed offline",
+ "source_total": 7840952947,
+ "region_total": 7840811597.0,
+ "assigned_total": 7840811597.0,
+ "dropped": 141350.0,
+ "dropped_note": "529 coastal cells (141,347 people) more than 50 km from any polygon are unassigned (per data/README).",
+ "num_regions": 2375,
+ "num_edges": 34912,
+ "num_air_edges": 20770,
+ "num_land_edges": 14131,
+ "num_estimated_edges": 11,
+ "daily_air_trips_m1": 13857382.820139037,
+ "daily_land_trips_m1": 615438.6580256426,
+ "daily_estimated_trips_m1": 89.75342465753425,
+ "calibration": {
+  "method": "W_ij = c * A_ij * P_i^0.7 * P_j^0.7 / (d_ij+100)^1.0; c scaled so total daily air trips at m=1 ~= 4.89e9/365 ~= 13.4M",
+  "c": 1.5706388938522907e-05,
+  "alpha": 0.7,
+  "delta": 1.0,
+  "d0": 100.0,
+  "target": 13397260.273972603
+ },
+ "datasets": [
+  {
+   "name": "GHS-POP R2023A epoch 2020",
+   "version": "R2023A",
+   "year": 2020,
+   "resolution": "30 arc-sec aggregated to 0.1/0.25/1 deg",
+   "licence": "Free reuse with attribution (JRC)",
+   "total": 7840952947
+  },
+  {
+   "name": "Natural Earth Admin-0 map units + Admin-1 states/provinces",
+   "version": "1:10m",
+   "year": 2024,
+   "licence": "Public domain"
+  },
+  {
+   "name": "OpenFlights airports/routes (~2014 snapshot, no passenger volumes)",
+   "year": 2014,
+   "licence": "ODbL (attribute + share-alike)"
+  },
+  {
+   "name": "OurAirports full list",
+   "licence": "Public domain"
+  },
+  {
+   "name": "IATA passenger totals (2019 4.54bn, 2020 1.78bn, 2023 4.44bn, 2024 4.89bn)",
+   "year": 2024
+  },
+  {
+   "name": "World Bank WDI population/density/air passengers",
+   "licence": "CC BY 4.0",
+   "note": "cross-check only, never mixed into model"
+  },
+  {
+   "name": "Virus presets (15) + island lists",
+   "note": "rows tagged [TEXTBOOK-UNVERIFIED] need primary citation"
+  }
+ ],
+ "edge_types": {
+  "0": "observed air route structure (OpenFlights)",
+  "1": "synthetic land neighbours (border-detected, same gravity, same c)",
+  "2": "estimated manual sea/air links (frequency x passengers / 365)"
+ },
+ "regions_note": "Split units over 20M people or 1M km2 (+ SHN special) into admin-1; others single region per map unit. Admin-1 pops weighted by 0.25deg GHSL cells scaled to parent 0.1deg-based total. Areas split by planar polygon share scaled to parent area.",
+ "years_note": "Population 2020, route structure ~2014, passenger calibration 2024, manual links estimates."
+}

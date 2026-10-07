@@ -1,0 +1,299 @@
+unit_id,name,type,continent,subregion,ghsl_pop_2020,area_km2,density_per_km2,centroid_lat,centroid_lon,airports_served,international_routes_in,international_partners,total_routes_in
+SCR,Scarborough Reef,Indeterminate,Asia,South-Eastern Asia,,0.1,,15.1521,117.7538,0.0,0.0,0.0,0.0
+SER,Serranilla Bank,Indeterminate,North America,Caribbean,,0.1,,15.8645,-78.6381,0.0,0.0,0.0,0.0
+BJN,Bajo Nuevo Bank,Indeterminate,North America,Caribbean,,0.0,,15.795,-79.9879,0.0,0.0,0.0,0.0
+KQI,Kingman Reef,Geo unit,Oceania,Micronesia,,2.7,,6.4377,-162.3927,0.0,0.0,0.0,0.0
+LQI,Palmyra Atoll,Geo unit,Oceania,Micronesia,,7.1,,5.8808,-162.0765,0.0,0.0,0.0,0.0
+SYX,Syria,Geo unit,Asia,Western Asia,20924327.0,185674.6,112.69,35.0014,38.4985,0.0,0.0,0.0,0.0
+WSB,Akrotiri,Dependency,Asia,Western Asia,42790.0,98.7,433.54,34.6318,32.934,0.0,0.0,0.0,0.0
+CNM,Cyprus U.N. Buffer Zone,Indeterminate,Asia,Western Asia,50033.0,341.0,146.72,35.1019,33.2576,0.0,0.0,0.0,0.0
+KNX,Korean DMZ (south),Overlay,Asia,Eastern Asia,21293.0,1097.7,19.4,38.2453,127.5165,0.0,0.0,0.0,0.0
+LIE,Liechtenstein,Sovereign country,Europe,Western Europe,21184.0,137.3,154.29,47.1381,9.5409,0.0,0.0,0.0,0.0
+USG,USNB Guantanamo Bay,Lease,North America,Caribbean,9916.0,65.4,151.62,19.9292,-75.1547,0.0,0.0,0.0,0.0
+ESB,Dhekelia,Dependency,Asia,Western Asia,11530.0,127.4,90.5,35.0178,33.793,0.0,0.0,0.0,0.0
+SYU,UNDOF Zone,Overlay,Asia,Western Asia,35208.0,265.0,132.86,33.1569,35.8451,0.0,0.0,0.0,0.0
+SMR,San Marino,Sovereign country,Europe,Southern Europe,36039.0,60.3,597.66,43.9365,12.4422,0.0,0.0,0.0,0.0
+MSR,Montserrat,Dependency,North America,Caribbean,4500.0,99.6,45.18,16.7375,-62.1874,0.0,0.0,0.0,0.0
+SHN,Saint Helena,Dependency,Seven seas (open ocean),Western Africa,5420.0,366.7,14.78,-22.8077,-10.0838,0.0,0.0,0.0,0.0
+AND,Andorra,Sovereign country,Europe,Southern Europe,72716.0,452.2,160.8,42.5413,1.5607,0.0,0.0,0.0,0.0
+SAH,W. Sahara,Indeterminate,Africa,Northern Africa,3629.0,90495.4,0.04,24.1901,-12.2402,0.0,0.0,0.0,0.0
+KNZ,Korean DMZ (north),Overlay,Asia,Eastern Asia,89211.0,1142.1,78.11,38.2832,127.463,0.0,0.0,0.0,0.0
+KAB,Baikonur,Lease,Asia,Central Asia,65710.0,6501.5,10.11,45.9772,63.3839,0.0,0.0,0.0,0.0
+BVT,Bouvet I.,Dependency,Antarctica,Antarctica,,55.2,,-54.4193,3.4131,0.0,0.0,0.0,0.0
+CSI,Coral Sea Is.,Dependency,Oceania,Australia and New Zealand,,0.0,,-21.0293,154.3904,0.0,0.0,0.0,0.0
+DQI,Jarvis I.,Geo unit,Oceania,Micronesia,,2.3,,-0.3796,-160.0198,0.0,0.0,0.0,0.0
+FQI,Baker I.,Geo unit,Oceania,Micronesia,,0.7,,0.2019,-176.4747,0.0,0.0,0.0,0.0
+CLP,Clipperton I.,Dependency,Seven seas (open ocean),Central America,,5.0,,10.2974,-109.2213,0.0,0.0,0.0,0.0
+PGA,Spratly Is.,Indeterminate,Asia,South-Eastern Asia,,12.0,,10.5442,114.9266,0.0,0.0,0.0,0.0
+WQI,Wake Atoll,Geo unit,Oceania,Micronesia,,3.9,,19.2872,166.6415,0.0,0.0,0.0,0.0
+SRV,Vojvodina,Geo unit,Europe,Southern Europe,1962259.0,21145.3,92.8,45.3951,20.0636,0.0,0.0,0.0,0.0
+WEB,West Bank,Geo unit,Asia,Western Asia,2963644.0,5734.9,516.77,31.9467,35.2503,0.0,0.0,0.0,0.0
+MQI,Midway Is.,Geo unit,Oceania,Northern America,,3.5,,28.2072,-177.3677,0.0,0.0,0.0,0.0
+BQI,Navassa I.,Geo unit,North America,Caribbean,,4.8,,18.407,-75.0147,0.0,0.0,0.0,0.0
+ATC,Ashmore and Cartier Is.,Dependency,Oceania,Australia and New Zealand,,2.7,,-12.4326,123.5864,0.0,0.0,0.0,0.0
+NIU,Niue,Dependency,Oceania,Polynesia,1942.0,220.6,8.8,-19.0489,-169.8693,1.0,0.0,0.0,0.0
+ACB,Barbuda,Geo unit,North America,Caribbean,1876.0,169.5,11.07,17.6319,-61.7953,0.0,0.0,0.0,0.0
+TKL,Tokelau,Geo unit,Oceania,Polynesia,1300.0,4.2,309.52,-8.9693,-171.817,0.0,0.0,0.0,0.0
+PFA,Paracel Is.,Geo unit,Asia,Eastern Asia,470.0,5.4,87.04,16.3667,111.8725,0.0,0.0,0.0,0.0
+KAS,Siachen Glacier,Indeterminate,Asia,Southern Asia,56.0,2088.1,0.03,35.3909,77.18,0.0,0.0,0.0,0.0
+PCN,Pitcairn Is.,Dependency,Oceania,Polynesia,67.0,42.6,1.57,-24.4123,-128.4787,0.0,0.0,0.0,0.0
+NJM,Jan Mayen I.,Dependency,Europe,Northern Europe,40.0,458.7,0.09,71.0205,-8.4201,0.0,0.0,0.0,0.0
+MCO,Monaco,Sovereign country,Europe,Western Europe,,18.8,,43.7398,7.399,0.0,0.0,0.0,0.0
+SPI,Southern Patagonian Ice Field,Indeterminate,South America,South America,,1408.9,,-49.5119,-73.3188,0.0,0.0,0.0,0.0
+BRI,Brazilian I.,Indeterminate,South America,South America,,2.8,,-30.188,-57.623,0.0,0.0,0.0,0.0
+GIB,Gibraltar,Disputed,Europe,Southern Europe,,3.7,,36.1295,-5.3467,0.0,0.0,0.0,0.0
+VAT,Vatican,Sovereign country,Europe,Southern Europe,,0.0,,41.9033,12.4534,0.0,0.0,0.0,0.0
+ATA,Antarctica,Indeterminate,Antarctica,Antarctica,,12358225.0,,-75.4828,35.2931,0.0,0.0,0.0,0.0
+BRT,Bir Tawil,Indeterminate,Africa,Northern Africa,,2019.5,,21.8798,33.682,0.0,0.0,0.0,0.0
+ATF,Fr. S. Antarctic Lands,Dependency,Seven seas (open ocean),Seven seas (open ocean),,7280.0,,-48.9779,68.9485,0.0,0.0,0.0,0.0
+JQI,Johnston Atoll,Geo unit,Oceania,Micronesia,,2.5,,16.7371,-169.535,0.0,0.0,0.0,0.0
+HQI,Howland I.,Geo unit,Oceania,Micronesia,,0.5,,0.8,-176.6378,0.0,0.0,0.0,0.0
+HMD,Heard I. and McDonald Is.,Dependency,Seven seas (open ocean),Seven seas (open ocean),,394.8,,-53.0887,73.5051,0.0,0.0,0.0,0.0
+IOT,Br. Indian Ocean Ter.,Disputed,Seven seas (open ocean),Seven seas (open ocean),,49.1,,-7.1436,72.2985,0.0,0.0,0.0,0.0
+SGS,S. Geo. and the Is.,Dependency,Seven seas (open ocean),Seven seas (open ocean),,3921.5,,-54.635,-35.9561,0.0,0.0,0.0,0.0
+GAZ,Gaza,Geo unit,Asia,Western Asia,1277365.0,339.5,3762.49,31.3929,34.3551,0.0,0.0,0.0,0.0
+BCR,Brussels,Geo unit,Europe,Western Europe,1168447.0,164.5,7103.02,50.8367,4.3704,0.0,0.0,0.0,0.0
+BHB,Brcko District,Geo unit,Europe,Southern Europe,53553.0,153.5,348.88,44.8178,18.8446,0.0,0.0,0.0,0.0
+ASM,American Samoa,Dependency,Oceania,Polynesia,46189.0,180.3,256.18,-14.2543,-170.3989,1.0,1.0,1.0,1.0
+LSO,Lesotho,Sovereign country,Africa,Southern Africa,2195139.0,30106.4,72.91,-29.5767,28.2295,1.0,1.0,1.0,1.0
+FLK,Falkland Is.,Disputed,South America,South America,3747.0,11597.2,0.32,-51.7313,-59.3749,1.0,1.0,1.0,1.0
+SWZ,eSwatini,Sovereign country,Africa,Southern Africa,1165419.0,17111.9,68.11,-26.56,31.48,1.0,1.0,1.0,1.0
+CCK,Cocos Is.,Geo unit,Asia,South-Eastern Asia,546.0,13.2,41.36,-12.1759,96.8673,1.0,1.0,1.0,1.0
+TUV,Tuvalu,Sovereign country,Oceania,Polynesia,11054.0,23.0,480.61,-7.7556,178.5182,1.0,1.0,1.0,1.0
+NFK,Norfolk Island,Dependency,Oceania,Australia and New Zealand,2152.0,41.1,52.36,-29.035,167.9552,1.0,2.0,1.0,2.0
+NSV,Svalbard Is.,Dependency,Europe,Northern Europe,2936.0,62081.7,0.05,78.75,18.392,1.0,2.0,1.0,2.0
+WLF,Wallis and Futuna Is.,Dependency,Oceania,Polynesia,11655.0,139.3,83.67,-13.7365,-177.057,2.0,2.0,2.0,4.0
+MAF,St-Martin,Dependency,North America,Caribbean,78774.0,68.3,1153.35,18.0776,-63.0551,1.0,2.0,2.0,2.0
+CXR,Christmas I.,Geo unit,Asia,South-Eastern Asia,3049.0,98.7,30.89,-10.4925,105.6625,1.0,2.0,2.0,2.0
+CAF,Central African Rep.,Sovereign country,Africa,Middle Africa,5354084.0,617983.6,8.66,6.5584,20.4616,1.0,2.0,2.0,2.0
+STP,São Tomé and Principe,Sovereign country,Africa,Middle Africa,218641.0,1037.2,210.8,0.4442,6.7264,1.0,3.0,3.0,3.0
+GRL,Greenland,Country,North America,Northern America,55894.0,2154380.1,0.03,72.0396,-41.5381,19.0,3.0,2.0,54.0
+ALD,Åland,Country,Europe,Northern Europe,32745.0,942.1,34.76,60.1859,20.0558,1.0,3.0,2.0,3.0
+NRU,Nauru,Sovereign country,Oceania,Micronesia,12315.0,28.8,427.6,-0.5208,166.9331,1.0,3.0,3.0,3.0
+BIS,Rep. Srpska,Geo unit,Europe,Southern Europe,1079111.0,22858.8,47.21,44.2456,18.0816,1.0,3.0,3.0,3.0
+TLS,Timor-Leste,Sovereign country,Asia,South-Eastern Asia,1310391.0,15082.2,86.88,-8.8235,125.8514,1.0,3.0,3.0,3.0
+SOP,Puntland,Geo unit,Africa,Eastern Africa,1347008.0,138514.2,9.72,8.8459,49.2734,2.0,3.0,3.0,5.0
+PNB,Bougainville,Geo unit,Oceania,Melanesia,312448.0,9403.8,33.23,-6.1406,155.2621,1.0,3.0,1.0,3.0
+SPM,St. Pierre and Miquelon,Dependency,North America,Northern America,5906.0,242.8,24.32,46.9301,-56.3078,1.0,3.0,1.0,3.0
+PRK,North Korea,Sovereign country,Asia,Eastern Asia,25405969.0,121237.3,209.56,40.1359,127.1645,1.0,4.0,3.0,4.0
+FRO,Faeroe Is.,Dependency,Europe,Northern Europe,52415.0,1328.5,39.45,62.0712,-6.8705,1.0,4.0,2.0,4.0
+TON,Tonga,Sovereign country,Oceania,Polynesia,104258.0,603.1,172.87,-20.0437,-174.867,1.0,4.0,3.0,4.0
+SLB,Solomon Is.,Sovereign country,Oceania,Melanesia,688507.0,27198.8,25.31,-8.9038,159.6326,16.0,4.0,4.0,50.0
+GUF,French Guiana,Geo unit,South America,South America,271462.0,83183.7,3.26,3.9211,-53.2445,1.0,4.0,4.0,4.0
+BDI,Burundi,Sovereign country,Africa,Eastern Africa,12219129.0,27041.2,451.87,-3.357,29.8751,1.0,4.0,4.0,4.0
+AIA,Anguilla,Dependency,North America,Caribbean,12985.0,87.4,148.57,18.2301,-63.0592,1.0,4.0,4.0,4.0
+COK,Cook Is.,Dependency,Oceania,Polynesia,16786.0,191.1,87.84,-19.7337,-158.7931,6.0,4.0,4.0,15.0
+KIR,Kiribati,Sovereign country,Oceania,Micronesia,126463.0,949.9,133.13,0.6223,-51.4333,2.0,5.0,4.0,5.0
+WSM,Samoa,Sovereign country,Oceania,Polynesia,214929.0,2780.4,77.3,-13.7544,-172.1615,1.0,5.0,4.0,5.0
+VCT,St. Vin. and Gren.,Sovereign country,North America,Caribbean,103103.0,367.7,280.4,13.2161,-61.2034,1.0,5.0,5.0,5.0
+MHL,Marshall Is.,Sovereign country,Oceania,Micronesia,39766.0,164.8,241.3,7.1056,170.1023,2.0,5.0,4.0,7.0
+BTN,Bhutan,Sovereign country,Asia,Southern Asia,1010607.0,40421.3,25.0,27.4195,90.4068,1.0,5.0,3.0,5.0
+GEA,Adjara,Geo unit,Asia,Western Asia,332806.0,2955.7,112.6,41.6427,42.0743,1.0,5.0,5.0,5.0
+GNB,Guinea-Bissau,Sovereign country,Africa,Western Africa,2008381.0,32829.1,61.18,12.0261,-14.9777,1.0,5.0,5.0,5.0
+FSM,Micronesia,Sovereign country,Oceania,Micronesia,104236.0,633.8,164.46,6.9613,155.2816,4.0,5.0,3.0,9.0
+VGB,British Virgin Is.,Dependency,North America,Caribbean,28070.0,144.9,193.72,18.5097,-64.5029,2.0,6.0,4.0,6.0
+PLW,Palau,Sovereign country,Oceania,Micronesia,17806.0,491.9,36.2,7.1949,134.3468,1.0,6.0,6.0,6.0
+BLM,St-Barthélemy,Dependency,North America,Caribbean,10681.0,24.4,437.75,17.9056,-62.8326,1.0,6.0,6.0,6.0
+COM,Comoros,Sovereign country,Africa,Eastern Africa,806166.0,1672.2,482.1,-11.8837,43.6797,1.0,6.0,6.0,6.0
+VUT,Vanuatu,Sovereign country,Oceania,Melanesia,310203.0,12296.6,25.23,-16.1847,167.6954,26.0,7.0,5.0,85.0
+ERI,Eritrea,Sovereign country,Africa,Eastern Africa,3618571.0,122537.9,29.53,15.3479,38.8584,2.0,7.0,6.0,8.0
+PYF,Fr. Polynesia,Dependency,Oceania,Polynesia,300838.0,3336.5,90.17,-15.063,-144.9997,25.0,7.0,6.0,95.0
+SUR,Suriname,Sovereign country,South America,South America,614496.0,145123.5,4.23,4.1293,-55.9111,1.0,7.0,7.0,7.0
+GMB,Gambia,Sovereign country,Africa,Western Africa,2530899.0,10501.1,241.01,13.4496,-15.3977,1.0,7.0,6.0,7.0
+TZZ,Zanzibar,Geo unit,Africa,Eastern Africa,1799556.0,2499.1,720.08,-5.7821,39.5029,1.0,7.0,4.0,7.0
+GUY,Guyana,Sovereign country,South America,South America,802343.0,211213.6,3.8,4.7864,-58.9791,2.0,8.0,7.0,8.0
+NIC,Nicaragua,Sovereign country,North America,Central America,6770837.0,128684.7,52.62,12.8398,-85.0341,1.0,8.0,5.0,8.0
+CYN,N. Cyprus,Sovereign country,Asia,Western Asia,289172.0,3319.4,87.12,35.2761,33.5974,1.0,8.0,1.0,8.0
+GIN,Guinea,Sovereign country,Africa,Western Africa,13191147.0,244302.1,54.0,10.4283,-10.94,1.0,8.0,8.0,8.0
+SOX,Somalia,Geo unit,Africa,Eastern Africa,11821988.0,333301.2,35.47,3.0203,44.2045,1.0,8.0,6.0,8.0
+BMU,Bermuda,Dependency,North America,Northern America,64031.0,62.3,1027.78,32.3101,-64.7635,1.0,8.0,3.0,8.0
+GRD,Grenada,Sovereign country,North America,Caribbean,125192.0,347.3,360.47,12.1533,-61.6567,1.0,8.0,7.0,8.0
+SDS,S. Sudan,Sovereign country,Africa,Eastern Africa,10133175.0,626859.1,16.16,7.2724,30.3028,1.0,8.0,8.0,8.0
+DMA,Dominica,Sovereign country,North America,Caribbean,71995.0,730.3,98.58,15.4364,-61.3569,1.0,8.0,8.0,8.0
+SYC,Seychelles,Sovereign country,Seven seas (open ocean),Eastern Africa,105530.0,435.7,242.21,-6.4731,52.0835,2.0,8.0,7.0,10.0
+LBR,Liberia,Sovereign country,Africa,Western Africa,5109496.0,95298.2,53.62,6.4497,-9.3188,2.0,8.0,6.0,8.0
+NCL,New Caledonia,Dependency,Oceania,Melanesia,286406.0,18841.1,15.2,-21.3011,165.7002,10.0,9.0,7.0,30.0
+TCD,Chad,Sovereign country,Africa,Middle Africa,16561191.0,1266282.8,13.08,15.2296,18.6416,1.0,9.0,7.0,9.0
+NER,Niger,Sovereign country,Africa,Western Africa,24445198.0,1181302.5,20.69,17.3584,9.3592,1.0,9.0,9.0,9.0
+KNA,St. Kitts and Nevis,Sovereign country,North America,Caribbean,47642.0,264.1,180.39,17.271,-62.6985,2.0,9.0,6.0,11.0
+MNP,N. Mariana Is.,Dependency,Oceania,Micronesia,49587.0,579.3,85.6,16.2251,145.5996,2.0,9.0,4.0,11.0
+MWI,Malawi,Sovereign country,Africa,Eastern Africa,19417154.0,119397.8,162.63,-13.1957,34.2867,2.0,9.0,6.0,11.0
+NLY,Caribbean Netherlands,Geo unit,North America,Caribbean,26153.0,295.2,88.59,12.6537,-67.8242,3.0,9.0,6.0,9.0
+MNG,Mongolia,Sovereign country,Asia,Eastern Asia,3288115.0,1564664.0,2.1,46.6903,103.0927,10.0,9.0,7.0,26.0
+MRT,Mauritania,Sovereign country,Africa,Western Africa,4682794.0,1036388.9,4.52,20.172,-10.3545,3.0,9.0,7.0,15.0
+GNQ,Eq. Guinea,Sovereign country,Africa,Middle Africa,1568125.0,26671.7,58.79,1.7066,10.3331,2.0,9.0,7.0,11.0
+IMN,Isle of Man,Country,Europe,Northern Europe,84046.0,574.8,146.22,54.2288,-4.5338,1.0,10.0,3.0,10.0
+PRY,Paraguay,Sovereign country,South America,South America,6581374.0,399901.3,16.46,-23.1797,-58.4196,2.0,10.0,8.0,12.0
+MYT,Mayotte,Disputed,Africa,Eastern Africa,305587.0,394.9,773.83,-12.8174,45.1422,1.0,10.0,6.0,10.0
+MTQ,Martinique,Geo unit,North America,Caribbean,370391.0,1097.5,337.49,14.6563,-61.0176,1.0,10.0,9.0,10.0
+SOL,Somaliland,Sovereign country,Africa,Eastern Africa,3980109.0,167406.5,23.78,9.7284,46.2553,2.0,11.0,7.0,12.0
+BWA,Botswana,Sovereign country,Africa,Southern Africa,2518566.0,579029.3,4.35,-22.139,23.8041,4.0,11.0,5.0,19.0
+SLE,Sierra Leone,Sovereign country,Africa,Western Africa,8221391.0,71611.6,114.81,8.5611,-11.795,1.0,11.0,9.0,11.0
+TKM,Turkmenistan,Sovereign country,Asia,Central Asia,6275810.0,470849.1,13.33,39.0626,59.413,1.0,11.0,9.0,11.0
+HTI,Haiti,Sovereign country,North America,Caribbean,11263220.0,26891.6,418.84,18.9358,-72.6916,2.0,12.0,8.0,14.0
+DJI,Djibouti,Sovereign country,Africa,Eastern Africa,1089284.0,21848.0,49.86,11.7491,42.5662,1.0,12.0,9.0,12.0
+NAM,Namibia,Sovereign country,Africa,Southern Africa,2483670.0,822713.5,3.02,-22.0188,17.204,8.0,12.0,7.0,25.0
+UGA,Uganda,Sovereign country,Africa,Eastern Africa,44942289.0,241853.5,185.82,1.2746,32.3668,3.0,13.0,12.0,17.0
+BLZ,Belize,Sovereign country,North America,Central America,394698.0,22299.4,17.7,17.2051,-88.6943,2.0,13.0,5.0,15.0
+BRN,Brunei,Sovereign country,Asia,South-Eastern Asia,463654.0,5716.6,81.11,4.5164,114.7272,1.0,13.0,10.0,13.0
+GLP,Guadeloupe,Geo unit,North America,Caribbean,395642.0,1657.3,238.73,16.2081,-61.5296,1.0,13.0,12.0,13.0
+REU,Réunion,Geo unit,Seven seas (open ocean),Eastern Africa,957822.0,2582.4,370.9,-21.1193,55.5416,2.0,14.0,7.0,14.0
+URY,Uruguay,Sovereign country,South America,South America,3371021.0,177342.2,19.01,-32.7766,-56.0206,2.0,14.0,8.0,14.0
+TGO,Togo,Sovereign country,Africa,Western Africa,8200025.0,56863.4,144.21,8.5199,0.963,1.0,14.0,13.0,14.0
+PNX,Papua New Guinea,Geo unit,Oceania,Melanesia,9431845.0,455743.4,20.7,-6.4669,145.022,23.0,14.0,9.0,112.0
+BFA,Burkina Faso,Sovereign country,Africa,Western Africa,21519728.0,272768.8,78.89,12.2617,-1.7587,2.0,14.0,13.0,16.0
+PAZ,Azores,Geo unit,Seven seas (open ocean),Southern Europe,231738.0,2607.8,88.86,38.3591,-27.323,9.0,15.0,8.0,43.0
+GGY,Guernsey,Country,Europe,Northern Europe,62794.0,74.0,848.57,49.4842,-2.5306,2.0,15.0,5.0,17.0
+ZMB,Zambia,Sovereign country,Africa,Eastern Africa,19216111.0,751914.3,25.56,-13.4283,27.7907,7.0,15.0,9.0,27.0
+GAB,Gabon,Sovereign country,Africa,Middle Africa,2340430.0,259968.3,9.0,-0.5912,11.7896,2.0,16.0,13.0,16.0
+ZWE,Zimbabwe,Sovereign country,Africa,Eastern Africa,15625553.0,389338.2,40.13,-18.98,29.8516,3.0,16.0,10.0,22.0
+MLI,Mali,Sovereign country,Africa,Western Africa,21317989.0,1252722.9,17.02,17.2487,-3.5622,1.0,16.0,15.0,16.0
+BHF,Fed. of Bos. & Herz.,Geo unit,Europe,Southern Europe,2194683.0,28814.4,76.17,44.0927,17.5286,3.0,16.0,10.0,16.0
+BOL,Bolivia,Sovereign country,South America,South America,11855541.0,1086807.8,10.91,-16.6405,-64.6908,14.0,16.0,9.0,66.0
+MDG,Madagascar,Sovereign country,Africa,Eastern Africa,28225177.0,592981.3,47.6,-19.2807,46.7246,13.0,16.0,8.0,58.0
+MOZ,Mozambique,Sovereign country,Africa,Eastern Africa,31172204.0,788446.9,39.54,-17.1368,35.5721,10.0,16.0,6.0,52.0
+LCA,Saint Lucia,Sovereign country,North America,Caribbean,179237.0,605.1,296.21,13.9026,-60.9703,2.0,17.0,10.0,17.0
+KOS,Kosovo,Disputed,Europe,Southern Europe,1625926.0,10913.1,148.99,42.5711,20.8738,1.0,17.0,9.0,17.0
+ALB,Albania,Sovereign country,Europe,Southern Europe,2841789.0,28335.8,100.29,41.1304,20.0548,1.0,18.0,7.0,18.0
+AFG,Afghanistan,Sovereign country,Asia,Southern Asia,38717334.0,642181.1,60.29,33.7595,65.9697,4.0,18.0,7.0,24.0
+COG,Congo,Sovereign country,Africa,Middle Africa,5511453.0,344888.7,15.98,-0.837,15.219,3.0,18.0,11.0,22.0
+LAO,Laos,Sovereign country,Asia,South-Eastern Asia,7342574.0,228114.0,32.19,18.4658,103.756,8.0,18.0,7.0,36.0
+CYM,Cayman Is.,Dependency,North America,Caribbean,67311.0,309.2,217.69,19.4261,-80.8777,3.0,18.0,6.0,24.0
+TCA,Turks and Caicos Is.,Dependency,North America,Caribbean,44276.0,445.2,99.45,21.7799,-71.8732,4.0,18.0,7.0,26.0
+COD,Dem. Rep. Congo,Sovereign country,Africa,Middle Africa,92191591.0,2325240.1,39.65,-2.8535,23.6415,17.0,18.0,13.0,51.0
+BRB,Barbados,Sovereign country,North America,Caribbean,280693.0,444.2,631.91,13.181,-59.5612,1.0,18.0,14.0,18.0
+MNE,Montenegro,Sovereign country,Europe,Southern Europe,632002.0,13727.5,46.04,42.7833,19.2384,2.0,18.0,12.0,18.0
+RWA,Rwanda,Sovereign country,Africa,Eastern Africa,13406950.0,25305.1,529.81,-1.9926,29.9191,3.0,19.0,15.0,21.0
+CUW,Curaçao,Country,North America,Caribbean,189288.0,463.2,408.65,12.1938,-68.9713,1.0,19.0,13.0,19.0
+BEN,Benin,Sovereign country,Africa,Western Africa,12751350.0,116113.4,109.82,9.6312,2.3281,1.0,19.0,16.0,19.0
+GUM,Guam,Dependency,Oceania,Micronesia,169231.0,564.2,299.95,13.4437,144.7719,1.0,19.0,10.0,19.0
+SVK,Slovakia,Sovereign country,Europe,Eastern Europe,5383202.0,48457.9,111.09,48.7002,19.4754,2.0,20.0,10.0,22.0
+FJI,Fiji,Sovereign country,Oceania,Melanesia,920225.0,18930.1,48.61,-17.4434,163.4058,10.0,20.0,14.0,48.0
+WLS,Wales,Geo unit,Europe,Northern Europe,3168277.0,20794.9,152.36,52.3289,-3.7573,3.0,20.0,13.0,22.0
+CIV,Côte d'Ivoire,Sovereign country,Africa,Western Africa,26755105.0,320677.3,83.43,7.6205,-5.5689,1.0,20.0,18.0,20.0
+GTM,Guatemala,Sovereign country,North America,Central America,17454467.0,108810.8,160.41,15.6879,-90.3614,2.0,21.0,10.0,23.0
+SDN,Sudan,Sovereign country,Africa,Northern Africa,44596935.0,1855616.0,24.03,15.8956,29.9195,5.0,21.0,13.0,29.0
+VIR,U.S. Virgin Is.,Dependency,North America,Caribbean,103282.0,354.8,291.1,17.9798,-64.7976,2.0,22.0,8.0,24.0
+MKD,North Macedonia,Sovereign country,Europe,Southern Europe,2121351.0,25385.2,83.57,41.5921,21.6831,1.0,22.0,13.0,22.0
+ACA,Antigua,Geo unit,North America,Caribbean,90788.0,282.3,321.6,17.0746,-61.7903,1.0,22.0,15.0,22.0
+SVN,Slovenia,Sovereign country,Europe,Southern Europe,2152201.0,20327.0,105.88,46.1131,14.8062,1.0,22.0,20.0,22.0
+TTO,Trinidad and Tobago,Sovereign country,North America,Caribbean,1518147.0,5122.9,296.35,10.4684,-61.2586,2.0,23.0,15.0,25.0
+NPL,Nepal,Sovereign country,Asia,Southern Asia,30977423.0,147105.8,210.58,28.2358,83.9315,10.0,23.0,14.0,41.0
+MDV,Maldives,Sovereign country,Seven seas (open ocean),Southern Asia,514438.0,108.7,4732.64,3.8205,73.3024,7.0,23.0,14.0,39.0
+MUS,Mauritius,Sovereign country,Seven seas (open ocean),Eastern Africa,1297828.0,2014.4,644.28,-20.1804,57.8503,2.0,23.0,16.0,25.0
+GHA,Ghana,Sovereign country,Africa,Western Africa,32379485.0,238668.7,135.67,7.9439,-1.2166,5.0,24.0,22.0,32.0
+AGO,Angola,Sovereign country,Africa,Middle Africa,33405407.0,1244652.2,26.84,-12.2361,17.5344,14.0,24.0,20.0,66.0
+MMR,Myanmar,Sovereign country,Asia,South-Eastern Asia,53252606.0,663159.4,80.3,21.0451,96.4922,15.0,24.0,13.0,63.0
+MDA,Moldova,Sovereign country,Europe,Eastern Europe,3015591.0,33206.6,90.81,47.1808,28.4658,1.0,25.0,15.0,25.0
+ABW,Aruba,Country,North America,Caribbean,106585.0,169.8,627.71,12.5169,-69.9742,1.0,25.0,10.0,25.0
+TZA,Tanzania,Sovereign country,Africa,Eastern Africa,59918792.0,939006.3,63.81,-6.2564,34.7956,7.0,25.0,16.0,38.0
+HND,Honduras,Sovereign country,North America,Central America,10126540.0,112236.4,90.23,14.8183,-86.6264,7.0,26.0,8.0,45.0
+CMR,Cameroon,Sovereign country,Africa,Middle Africa,26354718.0,464318.5,56.76,5.6757,12.7341,5.0,27.0,17.0,35.0
+ECU,Ecuador,Sovereign country,South America,South America,17572562.0,255014.2,68.91,-1.4248,-78.7722,14.0,27.0,13.0,59.0
+IRK,Iraqi Kurdistan,Geo unit,Asia,Western Asia,6949170.0,38248.3,181.69,36.0968,44.5152,2.0,28.0,12.0,28.0
+EST,Estonia,Sovereign country,Europe,Northern Europe,1280433.0,45819.0,27.95,58.6607,25.537,3.0,28.0,19.0,30.0
+JEY,Jersey,Country,Europe,Northern Europe,108319.0,119.0,910.24,49.2211,-2.1274,1.0,29.0,9.0,29.0
+CPV,Cabo Verde,Sovereign country,Africa,Western Africa,582640.0,3926.7,148.38,15.9399,-23.9741,7.0,29.0,14.0,47.0
+SEN,Senegal,Sovereign country,Africa,Western Africa,16236342.0,196224.6,82.74,14.3596,-14.4693,3.0,29.0,24.0,33.0
+LBY,Libya,Sovereign country,Africa,Northern Africa,6658391.0,1623758.9,4.1,26.908,18.0373,8.0,30.0,12.0,46.0
+IRR,Iraq,Geo unit,Asia,Western Asia,35559502.0,399118.6,89.1,32.6781,43.6872,4.0,30.0,11.0,30.0
+SLV,El Salvador,Sovereign country,North America,Central America,6315395.0,20539.4,307.48,13.7354,-88.8707,1.0,31.0,13.0,31.0
+PMD,Madeira,Geo unit,Africa,Southern Europe,262366.0,811.4,323.35,32.7556,-16.944,2.0,31.0,14.0,31.0
+KHM,Cambodia,Sovereign country,Asia,South-Eastern Asia,16535003.0,181059.7,91.32,12.71,104.902,3.0,32.0,11.0,36.0
+CHL,Chile,Sovereign country,South America,South America,19296998.0,736595.0,26.2,-35.3414,-71.2119,16.0,32.0,20.0,88.0
+GEG,Georgia,Geo unit,Asia,Western Asia,3447475.0,66615.1,51.75,42.184,43.5797,2.0,32.0,21.0,33.0
+KGZ,Kyrgyzstan,Sovereign country,Asia,Central Asia,6275950.0,198990.0,31.54,41.4411,74.5258,2.0,33.0,8.0,35.0
+SXM,Sint Maarten,Country,North America,Caribbean,,23.4,,18.0406,-63.0701,1.0,33.0,20.0,33.0
+ARM,Armenia,Sovereign country,Asia,Western Asia,2833746.0,29588.2,95.77,40.2813,44.9364,2.0,34.0,13.0,34.0
+ISL,Iceland,Sovereign country,Europe,Northern Europe,366669.0,102390.3,3.58,64.9703,-18.599,5.0,35.0,15.0,41.0
+MAC,Macao,Country,Asia,Eastern Asia,360514.0,30.1,11977.21,22.1578,113.5502,1.0,38.0,9.0,38.0
+CRI,Costa Rica,Sovereign country,North America,Central America,5126645.0,51151.0,100.23,9.9716,-84.1925,12.0,39.0,12.0,65.0
+BGD,Bangladesh,Sovereign country,Asia,Southern Asia,166291500.0,136903.7,1214.66,23.8294,90.2464,8.0,39.0,19.0,53.0
+LKA,Sri Lanka,Sovereign country,Asia,Southern Asia,21715079.0,66291.1,327.57,7.613,80.7034,6.0,40.0,23.0,50.0
+BHR,Bahrain,Sovereign country,Asia,Western Asia,1477864.0,688.1,2147.75,26.0352,50.5636,1.0,40.0,23.0,40.0
+BLR,Belarus,Sovereign country,Europe,Eastern Europe,9591364.0,207499.4,46.22,53.486,28.0249,1.0,41.0,29.0,41.0
+PER,Peru,Sovereign country,South America,South America,33252233.0,1289866.6,25.78,-9.073,-74.3969,20.0,41.0,20.0,95.0
+NZL,New Zealand,Country,Oceania,Australia and New Zealand,5061133.0,268494.4,18.85,-41.6051,171.6291,25.0,43.0,20.0,147.0
+YEM,Yemen,Sovereign country,Asia,Western Asia,32329851.0,453074.8,71.36,15.8906,47.5815,9.0,43.0,16.0,63.0
+JAM,Jamaica,Sovereign country,North America,Caribbean,2820436.0,11032.9,255.64,18.155,-77.3186,2.0,44.0,16.0,46.0
+LBN,Lebanon,Sovereign country,Asia,Western Asia,5558749.0,10004.1,555.65,33.9173,35.8786,1.0,44.0,31.0,44.0
+VEN,Venezuela,Sovereign country,South America,South America,28761336.0,912684.0,31.51,7.1094,-66.1636,23.0,45.0,23.0,111.0
+AZE,Azerbaijan,Sovereign country,Asia,Western Asia,10229064.0,86249.9,118.6,40.277,47.543,5.0,45.0,22.0,48.0
+NGA,Nigeria,Sovereign country,Africa,Western Africa,208099669.0,907498.2,229.31,9.573,8.0866,18.0,47.0,31.0,97.0
+CUB,Cuba,Sovereignty,North America,Caribbean,11290782.0,109929.3,102.71,21.6164,-79.0212,9.0,47.0,22.0,63.0
+ARG,Argentina,Sovereign country,South America,South America,45125032.0,2782896.4,16.22,-34.3054,-64.9574,36.0,50.0,20.0,175.0
+BHS,Bahamas,Sovereign country,North America,Caribbean,406319.0,12603.9,32.24,24.1924,-76.5322,19.0,50.0,9.0,89.0
+NIR,N. Ireland,Geo unit,Europe,Northern Europe,1876375.0,14251.2,131.66,54.6057,-6.6939,3.0,50.0,13.0,50.0
+SRS,Serbia,Geo unit,Europe,Southern Europe,5435302.0,56483.4,96.23,43.7597,21.0725,1.0,51.0,30.0,51.0
+PRI,Puerto Rico,Dependency,North America,Caribbean,3271564.0,9006.0,363.26,18.2236,-66.4676,6.0,52.0,18.0,58.0
+LUX,Luxembourg,Sovereign country,Europe,Western Europe,622377.0,2608.5,238.6,49.7659,6.0719,1.0,54.0,21.0,54.0
+OMN,Oman,Sovereign country,Asia,Western Asia,4597255.0,311213.1,14.77,20.5609,56.0783,3.0,56.0,25.0,60.0
+BGR,Bulgaria,Sovereign country,Europe,Eastern Europe,7057274.0,112759.9,62.59,42.7564,25.2144,4.0,57.0,25.0,63.0
+KWT,Kuwait,Sovereign country,Asia,Western Asia,4357971.0,17473.5,249.4,29.3376,47.595,1.0,57.0,26.0,57.0
+TJK,Tajikistan,Sovereign country,Asia,Central Asia,9528272.0,142238.7,66.99,38.5145,71.0224,4.0,58.0,10.0,58.0
+JOR,Jordan,Sovereign country,Asia,Western Asia,10645454.0,88862.7,119.8,31.2291,36.7642,3.0,60.0,35.0,62.0
+ETH,Ethiopia,Sovereign country,Africa,Eastern Africa,116705286.0,1127374.8,103.52,8.5938,39.6052,13.0,61.0,49.0,93.0
+COL,Colombia,Sovereign country,South America,South America,50677168.0,1135117.7,44.64,3.8892,-73.0818,47.0,66.0,22.0,206.0
+KEN,Kenya,Sovereign country,Africa,Eastern Africa,52201468.0,585702.3,89.13,0.5498,37.8225,16.0,67.0,47.0,105.0
+LTU,Lithuania,Sovereign country,Europe,Northern Europe,2832863.0,64938.8,43.62,55.3129,23.8932,3.0,68.0,28.0,68.0
+LVA,Latvia,Sovereign country,Europe,Northern Europe,1904877.0,64576.3,29.5,56.8421,24.9125,1.0,68.0,33.0,68.0
+PHL,Philippines,Sovereign country,Asia,South-Eastern Asia,112160408.0,293290.7,382.42,11.6862,122.8916,37.0,68.0,24.0,198.0
+PAN,Panama,Sovereign country,North America,Central America,4285571.0,74530.3,57.5,8.5134,-80.1211,7.0,74.0,31.0,83.0
+MLT,Malta,Sovereign country,Europe,Southern Europe,515358.0,325.7,1582.31,35.9209,14.4038,1.0,76.0,30.0,76.0
+KAZ,Kazakhstan,Sovereignty,Asia,Central Asia,18940901.0,2714265.4,6.98,47.8886,67.2686,17.0,78.0,24.0,152.0
+HUN,Hungary,Sovereign country,Europe,Eastern Europe,9816800.0,93200.7,105.33,47.1516,19.3887,2.0,79.0,35.0,79.0
+UZB,Uzbekistan,Sovereign country,Asia,Central Asia,33763653.0,447831.5,75.39,41.6794,63.2204,11.0,79.0,22.0,100.0
+CYP,Cyprus,Sovereign country,Asia,Western Asia,844012.0,5395.0,156.44,34.9149,32.9899,2.0,80.0,34.0,80.0
+ISR,Israel,Disputed,Asia,Western Asia,9767386.0,22101.4,441.94,31.4329,34.995,4.0,80.0,40.0,82.0
+VNM,Vietnam,Sovereign country,Asia,South-Eastern Asia,96326030.0,328891.9,292.88,16.4834,106.324,20.0,81.0,21.0,161.0
+ZAF,South Africa,Sovereign country,Africa,Southern Africa,58879574.0,1219824.6,48.27,-28.8774,25.1403,19.0,81.0,44.0,150.0
+DZA,Algeria,Sovereign country,Africa,Northern Africa,43394392.0,2308857.9,18.79,27.8973,2.6576,29.0,83.0,28.0,169.0
+BWR,Walloon,Geo unit,Europe,Western Europe,3773648.0,16987.2,222.15,50.3109,4.9861,2.0,89.0,25.0,89.0
+IDN,Indonesia,Sovereign country,Asia,South-Eastern Asia,271768286.0,1879826.2,144.57,-2.2108,117.2622,65.0,94.0,19.0,391.0
+FIN,Finland,Country,Europe,Northern Europe,5492097.0,333059.5,16.49,64.1113,26.2324,18.0,95.0,39.0,129.0
+IRN,Iran,Sovereign country,Asia,Southern Asia,87307819.0,1622508.8,53.81,32.3791,54.3582,43.0,97.0,30.0,286.0
+CZE,Czechia,Sovereign country,Europe,Eastern Europe,10480850.0,78759.0,133.07,49.7236,15.3176,5.0,101.0,40.0,103.0
+DOM,Dominican Rep.,Sovereign country,North America,Caribbean,11043245.0,48439.9,227.98,18.8944,-70.4963,7.0,101.0,29.0,105.0
+PAK,Pakistan,Sovereign country,Asia,Southern Asia,226882028.0,872939.1,259.91,29.7845,69.2563,22.0,102.0,24.0,182.0
+ROU,Romania,Sovereign country,Europe,Eastern Europe,19358645.0,236377.1,81.9,45.8201,24.9779,12.0,102.0,29.0,116.0
+TUN,Tunisia,Sovereign country,Africa,Northern Africa,12227197.0,156613.0,78.07,34.0702,9.5561,8.0,113.0,33.0,128.0
+QAT,Qatar,Sovereign country,Asia,Western Asia,2760852.0,11150.1,247.61,25.3111,51.1868,1.0,118.0,63.0,118.0
+BRA,Brazil,Sovereign country,South America,South America,213343825.0,8472661.8,25.18,-10.4196,-53.153,126.0,120.0,33.0,830.0
+SGP,Singapore,Sovereign country,Asia,South-Eastern Asia,5608985.0,510.5,10987.24,1.3589,103.8135,1.0,125.0,40.0,125.0
+AUS,Australia,Country,Oceania,Australia and New Zealand,25664887.0,7691170.2,3.34,-25.2611,134.3904,113.0,126.0,33.0,567.0
+UKR,Ukraine,Sovereign country,Europe,Eastern Europe,41650202.0,571999.3,72.82,49.0944,31.2861,11.0,127.0,35.0,143.0
+HRV,Croatia,Sovereign country,Europe,Southern Europe,4077686.0,55023.3,74.11,45.0498,16.3941,8.0,132.0,29.0,154.0
+HKG,Hong Kong,Country,Asia,Eastern Asia,7633937.0,1036.2,7367.24,22.3845,114.1314,1.0,133.0,42.0,133.0
+MYS,Malaysia,Sovereign country,Asia,South-Eastern Asia,33470131.0,327884.6,102.08,3.7887,109.6982,31.0,142.0,38.0,292.0
+EGY,Egypt,Sovereign country,Africa,Northern Africa,107414817.0,1001058.3,107.3,26.3971,29.8692,10.0,145.0,47.0,168.0
+BFR,Flemish,Geo unit,Europe,Western Europe,6733459.0,13517.8,498.12,51.0347,4.2163,3.0,149.0,58.0,149.0
+DNK,Denmark,Country,Europe,Northern Europe,5890718.0,42695.9,137.97,55.9458,10.0587,8.0,167.0,48.0,185.0
+TWN,Taiwan,Sovereign country,Asia,Eastern Asia,23809062.0,36197.9,657.75,23.7464,120.9486,9.0,171.0,24.0,193.0
+AUT,Austria,Sovereign country,Europe,Western Europe,9002401.0,83993.2,107.18,47.5756,14.1226,6.0,175.0,61.0,186.0
+THA,Thailand,Sovereign country,Asia,South-Eastern Asia,71627863.0,514453.5,139.23,15.0467,101.0024,32.0,184.0,55.0,284.0
+SCT,Scotland,Geo unit,Europe,Northern Europe,5485805.0,78302.7,70.06,56.7793,-4.1716,21.0,192.0,34.0,255.0
+MAR,Morocco,Sovereign country,Africa,Northern Africa,37382811.0,591742.6,63.17,29.6444,-8.5267,15.0,197.0,48.0,226.0
+KOR,South Korea,Sovereign country,Asia,Eastern Asia,51825416.0,97446.3,531.84,36.3299,127.8203,15.0,198.0,44.0,238.0
+SWE,Sweden,Sovereign country,Europe,Northern Europe,10344918.0,446172.7,23.19,62.147,16.5125,39.0,204.0,46.0,315.0
+PRX,Portugal,Geo unit,Europe,Southern Europe,9809944.0,87971.0,111.51,39.6397,-7.9784,3.0,217.0,43.0,223.0
+IRL,Ireland,Sovereign country,Europe,Northern Europe,4994921.0,69445.2,71.93,53.1523,-8.1488,7.0,221.0,37.0,225.0
+MEX,Mexico,Sovereign country,North America,Central America,125381720.0,1957845.1,64.04,23.7146,-102.3564,57.0,224.0,26.0,546.0
+SAU,Saudi Arabia,Sovereign country,Asia,Western Asia,35975957.0,1921725.1,18.72,23.9716,44.5997,26.0,229.0,43.0,353.0
+IND,India,Sovereign country,Asia,Southern Asia,1395988299.0,3150744.5,443.07,22.5682,79.5898,71.0,238.0,49.0,619.0
+NOW,Norway,Country,Europe,Northern Europe,5375963.0,319478.2,16.83,63.5836,13.2037,47.0,241.0,41.0,476.0
+CHE,Switzerland,Sovereign country,Europe,Western Europe,8702113.0,41435.5,210.02,46.7939,8.2141,5.0,246.0,63.0,252.0
+JPN,Japan,Sovereign country,Asia,Eastern Asia,125244442.0,373506.7,335.32,37.255,137.7928,62.0,268.0,40.0,618.0
+POL,Poland,Sovereign country,Europe,Eastern Europe,38558639.0,313427.8,123.02,52.0619,19.4087,11.0,283.0,43.0,307.0
+NLX,Netherlands,Geo core,Europe,Western Europe,17405428.0,37101.8,469.13,52.2551,5.5789,5.0,332.0,88.0,336.0
+CAN,Canada,Sovereign country,North America,Northern America,37875295.0,9945627.6,3.81,57.6085,-97.7716,206.0,334.0,64.0,1162.0
+GRC,Greece,Sovereign country,Europe,Southern Europe,10531436.0,131353.3,80.18,38.9941,22.9795,38.0,367.0,45.0,496.0
+ARE,United Arab Emirates,Sovereign country,Asia,Western Asia,9211448.0,71085.0,129.58,23.8995,54.2971,8.0,384.0,92.0,393.0
+TUR,Turkey,Sovereign country,Asia,Western Asia,84144329.0,780080.2,107.87,39.0201,35.1696,45.0,428.0,102.0,643.0
+RUS,Russia,Sovereign country,Europe,Eastern Europe,148097225.0,16980189.5,8.72,59.5553,95.3028,114.0,586.0,71.0,1299.0
+CHN,China,Country,Asia,Eastern Asia,1425709585.0,9375210.0,152.07,35.5986,103.577,175.0,596.0,62.0,3316.0
+FXX,France,Geo unit,Europe,Western Europe,64583361.0,547840.9,117.89,46.4325,2.5581,55.0,876.0,116.0,1188.0
+ITA,Italy,Sovereign country,Europe,Southern Europe,59455168.0,301184.5,197.4,42.6171,12.1362,36.0,884.0,81.0,1186.0
+USA,United States of America,Country,North America,Northern America,336442948.0,9464215.5,35.55,42.0906,-107.5092,549.0,1072.0,96.0,6522.0
+ESP,Spain,Sovereign country,Europe,Southern Europe,47203634.0,506884.9,93.12,40.1104,-3.6796,40.0,1087.0,77.0,1371.0
+ENG,England,Geo unit,Europe,Northern Europe,56480183.0,130433.7,433.02,52.5349,-1.4589,25.0,1188.0,105.0,1224.0
+DEU,Germany,Sovereign country,Europe,Western Europe,83054970.0,357673.5,232.21,50.9949,10.3711,32.0,1262.0,104.0,1405.0

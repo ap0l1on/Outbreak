@@ -1,0 +1,21 @@
+map_unit_id,island,approx_population,access_estimate,link_type,notes
+SHN,Tristan da Cunha (in Saint Helena unit),250,"ship only, ~8-10 sailings/yr (estimate)",sea,No airport
+PCN,Pitcairn,50,supply ship ~every 3 months (estimate),sea,No airport; COVID-free 2020
+TKL,Tokelau,1500,"ferry from Apia, Samoa ~fortnightly (estimate)",sea,No airport; among last COVID-free
+SHN,Saint Helena,4400,weekly flight from Johannesburg since 2017-18 (MISSING from OpenFlights ~2014 data; add manually),air,COVID-free into 2021
+NIU,Niue,1600,~1-2 flights/week from Auckland (estimate; OpenFlights shows 0 routes),air,Add manually
+TUV,Tuvalu,11000,few flights/week from Fiji,air,COVID-free into 2022
+NRU,Nauru,12500,few flights/week,air,COVID-free into 2022
+ASM,American Samoa,45000,flights from Samoa/Hawaii,air,Escaped 1918 influenza via quarantine
+WSM,Samoa,220000,flights from NZ/Australia/Fiji,air,19-22% died in 1918
+TON,Tonga,104000,flights from NZ/Fiji,air,COVID-free into 2021
+FLK,Falkland Islands,3700,limited flights,air,Remote South Atlantic
+KIR,Kiribati,126000,few flights,air,First COVID cases 2021-22
+MHL,Marshall Islands,40000,few flights,air,
+WLF,Wallis and Futuna,11600,few flights,air,
+NFK,Norfolk Island,2200,flights from Australia,air,
+CCK,Cocos (Keeling) Islands,550,~2 flights/week,air,
+CXR,Christmas Island,3000,few flights,air,
+NSV,Svalbard,2900,flights from mainland Norway,air,Arctic
+GRL,Greenland,56000,flights from Denmark/Iceland,air,"Arctic, sparse"
+COK,Cook Islands,17000,flights from NZ,air,
